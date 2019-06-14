@@ -1,0 +1,766 @@
+# newpar
+1	1	1	NUM	OOV	_	_	_	_	SpaceAfter=No	
+2	)	)	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	184	184	NUM	OOV	PronType=Rel	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	ноября	ноября	NOUN	OOV	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	21	21	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+8	денъ	денъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	билъ	билъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	бити
+
+11	челомъ	челомъ	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	великому	великому	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+13	государю	государю	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	словесно	словесно	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+15	Кунгурского	Кунгурского	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+16	уѣзду	уѣзду	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	Барды	Барды	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	Токанка	Токанка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+20	…	…	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+21	[пробѣлъ]	пробѣлъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+22	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+23	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+24	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+25	челобитьѣ	челобитьѣ	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	своемъ	своемъ	DET	_	Case=Loc|Gender=Neut|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+27	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+28	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+29	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	прошлыхъ	прошлыхъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+31	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+32	годѣхъ	годѣхъ	NOUN	OOV	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+33	покрали	покрали	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	покрасти
+
+34	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+35	него	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+36	Токанка	Токанка	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+37	три	три	NUM	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+38	лошади	лошади	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+39	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+40	кобыла	кобыла	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+41	рыжопѣга	рыжопѣга	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+42	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+43	другая	другая	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+44	гнѣда	гнѣда	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+45	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+46	третьюю	третьюю	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+47	ворону	ворону	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+48	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+49	того	того	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+50	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+51	уѣзду	уѣзду	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+52	каршинской	каршинской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+53	черемисинъ	черемисинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	Уразбактхай	Уразбактхай	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+55	Селгинъ	Селгинъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+56	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+57	товарыщи	товарыщи	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+58	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+59	чтобъ	чтобъ	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+60	великій	великій	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+61	государь	государь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+62	пожаловалъ	пожаловалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	пожаловати
+
+63	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+64	велѣлъ	велѣлъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	велѣти
+
+65	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+66	челобитье	челобитье	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+67	записать	записать	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	записати
+
+68	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+69	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+70	Уразбахтку	Уразбахтку	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+71	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+72	тѣхъ	тѣхъ	DET	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+73	лошадяхъ	лошадяхъ	NOUN	OOV	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+74	роспросить	роспросить	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	распросити
+
+75	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	ноября	ноября	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+4	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+5	30	30	NUM	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	съѣзжемъ	съѣзжемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+9	дворѣ	дворѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	Уразбахтай	Уразбахтай	PROPN	OOV	Gender=Masc|Number=Sing|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=Yes	
+11	Селгинъ	Селгинъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	роспрашиванъ	роспрашиванъ	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	распрашивати
+
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	роспросѣ	роспросѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+18	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	татарина	татарина	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	Токанка	Токанка	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	три	три	NUM	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+24	кобылы	кобылы	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+25	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	укралъ	укралъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	украсти
+
+27	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	товарыщи	товарыщи	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+29	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+30	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+31	товарыщи	товарыщи	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+32	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+33	нимъ	нимъ	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+34	были	были	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+35	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	Барды	Барды	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+37	черемисинъ	черемисинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+38	Урайка	Урайка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+39	…	…	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+40	[пробѣлъ]	пробѣлъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+41	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+42	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+43	другой	другой	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+44	Токпайка	Токпайка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+45	Актыбаевъ	Актыбаевъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+46	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+47	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+48	украдчи	украдчи	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	украсти
+
+49	де	де	PART	_	_	_	_	_	SpaceAfter=No	
+50	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+51	двѣ	двѣ	NUM	_	Case=Acc|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+52	лошади	лошади	NOUN	_	Case=Acc|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+53	промѣнилъ	промѣнилъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	промѣнити
+
+54	Токпайка	Токпайка	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+55	рускимъ	рускимъ	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+56	людемъ	людемъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+57	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+58	Мулахъ	Мулахъ	NOUN	OOV	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+59	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+60	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+61	третьею	третьею	ADV	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+62	продалъ	продалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	продати
+
+63	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+64	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+65	взялъ	взялъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	взяти
+
+66	за	за	ADP	_	_	_	_	_	SpaceAfter=Yes	
+67	третьею	третьею	NUM	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+68	лошадь	лошадь	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+69	полтара	полтара	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+70	рубли	рубли	NOUN	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	
+71	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+72	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+73	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+74	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+75	Урзабаткѣ	Урзабаткѣ	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+76	паю	паю	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+77	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+78	тѣхъ	тѣхъ	DET	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+79	лошедяхъ	лошедяхъ	NOUN	OOV	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+80	денегъ	денегъ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+81	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+82	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+83	лошадей	лошадей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+84	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+85	дали	дали	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	дати
+
+86	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+87	толко	толко	ADV	_	_	_	_	_	SpaceAfter=Yes	
+88	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+89	дали	дали	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	дати
+
+90	полтора	полтора	NUM	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+91	четверика	четверика	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+92	ржи	ржи	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+93	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	тамгу	тамгу	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	свою	свою	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+4	приложилъ	приложилъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	приложити
+
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	2	2	NUM	OOV	_	_	_	_	SpaceAfter=No	
+2	)	)	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	184	184	NUM	OOV	PronType=Rel	_	_	_	SpaceAfter=Yes	
+4	году	году	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	декабря	декабря	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	18	18	NUM	_	_	_	_	_	SpaceAfter=Yes	
+9	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	извѣщалъ	извѣщалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	извѣщати
+
+12	великому	великому	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+13	государю	государю	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	Кунгурѣ	Кунгурѣ	PROPN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	съѣзжемъ	съѣзжемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+18	дворѣ	дворѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	Ѳедору	Ѳедору	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+20	Алексѣевичю	Алексѣевичю	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	Зеленому	Зеленому	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+22	кунгурской	кунгурской	NOUN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+23	крестьянинъ	крестьянинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+25	Мартьяновы	Мартьяновы	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+26	Трошка	Трошка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	Ѳедоровыхъ	Ѳедоровыхъ	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+28	словесно	словесно	NOUN	OOV	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+29	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+30	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	нынѣшнемъ	нынѣшнемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+32	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+33	во	во	ADP	_	_	_	_	_	SpaceAfter=Yes	
+34	184	184	NUM	OOV	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+35	году	году	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	былъ	былъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+37	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+38	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+39	Трошка	Трошка	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+41	Филиповѣ	Филиповѣ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+42	заговѣньѣ	заговѣньѣ	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+43	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+44	гостяхъ	гостяхъ	NOUN	OOV	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+45	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+46	Кунгурскомъ	Кунгурскомъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+47	уѣздѣ	уѣздѣ	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+48	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+49	черемиской	черемиской	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+50	деревни	деревни	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+51	Верхчисуи	Верхчисуи	PROPN	OOV	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+52	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+53	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+55	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+56	черемисина	черемисина	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+57	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+58	Черемышка	Черемышка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+59	Чюгріева	Чюгріева	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+60	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+61	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+62	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+63	томъ	томъ	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+64	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+65	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+66	бранились	бранились	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+67	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+68	дралися	дралися	VERB	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	дратися
+
+69	черемиса	черемиса	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+70	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+71	тое	тое	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+72	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+73	Черемышко	Черемышко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+74	Чюгріевъ	Чюгріевъ	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+75	деревни	деревни	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+76	Янахтаевы	Янахтаевы	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+77	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+78	Кыркилкомъ	Кыркилкомъ	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+79	Розгилдѣевымъ	Розгилдѣевымъ	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+80	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+81	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+82	Чимиткомъ	Чимиткомъ	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+83	Бекбулатовымъ	Бекбулатовымъ	PROPN	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No	
+84	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	какъ	какъ	ADV	_	_	_	_	_	SpaceAfter=Yes	
+3	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+4	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	легъ	легъ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	лечи
+
+6	спать	спать	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	спати
+
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+9	деревни	деревни	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+10	Янахтаевы	Янахтаевы	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+11	пришелъ	пришелъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	приити
+
+12	къ	къ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+13	нему	нему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+14	черемисинъ	черемисинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+15	Исанбайко	Исанбайко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+16	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+18	говорилъ	говорилъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	говорити
+
+19	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+20	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+21	Трошкѣ	Трошкѣ	PROPN	OOV	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+22	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+23	которые	которые	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	_	_	_	SpaceAfter=Yes	
+24	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+25	лошади	лошади	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+26	пропали	пропали	VERB	OOV	Aspect=Res|Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	пропасти
+
+27	деревни	деревни	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+28	Романовы	Романовы	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+29	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	крестьянъ	крестьянъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+31	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+32	Сенки	Сенки	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+33	Ѳедорова	Ѳедорова	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+34	мерина	мерина	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+35	сѣрого	сѣрого	ADJ	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+36	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+37	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+38	кобылу	кобылу	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+39	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+40	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+41	кобылу	кобылу	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	нагнѣдѣ	нагнѣдѣ	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+43	карю	карю	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+44	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+45	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+46	Ефимка	Ефимка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+47	Нефедова	Нефедова	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+48	мерина	мерина	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+49	карева	карева	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+50	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+51	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+52	тѣ	тѣ	DET	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+53	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+54	лошади	лошади	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+55	украли	украли	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	украсти
+
+56	Кугугуйко	Кугугуйко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+57	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+58	Черемышко	Черемышко	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+59	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+60	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+61	укорялъ	укорялъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	укоряти
+
+62	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+63	ихъ	ихъ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+64	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+65	конехъ	конехъ	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+66	Кыркилко	Кыркилко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+67	Розгилдѣевъ	Розгилдѣевъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+68	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+69	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+70	вязалъ	вязалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	вязати
+
+71	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+72	ихъ	ихъ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+73	деревни	деревни	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+74	Янахтаевы	Янахтаевы	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+75	Чемейко	Чемейко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+76	Бекбулатовъ	Бекбулатовъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+77	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+78	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+79	били	били	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	бити
+
+80	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+81	батоги	батоги	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+82	Исинбайко	Исинбайко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+83	Козкитлевъ	Козкитлевъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+84	деревни	деревни	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+85	Енахтаевы	Енахтаевы	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+86	Антузейко	Антузейко	PROPN	OOV	_	_	_	_	SpaceAfter=Yes	
+87	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+88	Алабайка	Алабайка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+89	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+90	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+91	велѣлъ	велѣлъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	велѣти
+
+92	ихъ	ихъ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+93	бити	бити	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	бити
+
+94	…	…	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	декабря	декабря	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+4	20	20	NUM	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	противъ	противъ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	извѣту	извѣту	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	Трошки	Трошки	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	Нефедовыхъ	Нефедовыхъ	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	
+11	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	кунгурской	кунгурской	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+13	верхсылвенской	верхсылвенской	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+14	черемисинъ	черемисинъ	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+15	деревни	деревни	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	Верхчису	Верхчису	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	Черемышка	Черемышка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	Чюгреевъ	Чюгреевъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+19	роспрашиванъ	роспрашиванъ	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	распрашивати
+
+20	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+21	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+22	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+23	роспросѣ	роспросѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+25	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+26	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+27	нынѣшнемъ	нынѣшнемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+28	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+29	во	во	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	184	184	NUM	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+31	году	году	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+32	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+33	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+34	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+35	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+36	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+37	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+38	были	были	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+39	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	Янахтаева	Янахтаева	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+41	Кыркилко	Кыркилко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	Роскилдѣевъ	Роскилдѣевъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+43	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+44	Чемейко	Чемейко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+45	Бекбулатовъ	Бекбулатовъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+46	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+47	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+48	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+49	ними	ними	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+50	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+51	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+52	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+53	брани	брани	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+55	драки	драки	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+56	никакой	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+57	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+58	бывало	бывало	VERB	_	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	бывати
+
+59	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+60	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+61	какъ	какъ	ADV	_	_	_	_	_	SpaceAfter=Yes	
+62	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+63	Исинбайко	Исинбайко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+64	былъ	былъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+65	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+66	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+67	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+68	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+69	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+70	кунгурской	кунгурской	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+71	крестьянинъ	крестьянинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+72	Трошка	Трошка	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+73	Ѳедоровъ	Ѳедоровъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+74	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+75	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+76	Кыркилко	Кыркилко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+77	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+78	никакими	никакими	DET	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+79	воровскими	воровскими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+80	конми	конми	NOUN	OOV	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+81	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+82	укорялъ	укорялъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	укоряти
+
+83	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+84	тѣмъ	тѣмъ	DET	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+85	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+86	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+87	Трошка	Трошка	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+88	клеплетъ	клеплетъ	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	клепати
+
+89	напрасно	напрасно	ADV	_	_	_	_	_	SpaceAfter=No	
+90	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+91	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+92	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+93	воровствѣ	воровствѣ	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+94	запирался	запирался	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	запиратися
+
+95	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	того	того	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+4	числа	числа	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	черемисинъ	черемисинъ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	Кыркылко	Кыркылко	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Розгилдѣевъ	Розгилдѣевъ	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+8	роспрашиванъ	роспрашиванъ	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	распрашивати
+
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+11	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	роспросѣ	роспросѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+14	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+15	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	нынѣшнемъ	нынѣшнемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+17	во	во	ADP	_	_	_	_	_	SpaceAfter=Yes	
+18	184	184	NUM	OOV	Number=Sing	_	_	_	SpaceAfter=Yes	
+19	году	году	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+20	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+21	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	Филиповѣ	Филиповѣ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+23	заговѣньѣ	заговѣньѣ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+24	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+25	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+26	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+28	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+29	Черемышки	Черемышки	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+30	Чюгріева	Чюгріева	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+31	Кугугуйка	Кугугуйка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+33	Черемышку	Черемышку	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+34	никакими	никакими	DET	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+35	воровскими	воровскими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+36	лошадми	лошадми	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+37	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+38	укорялъ	укорялъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	укоряти
+
+39	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+40	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+41	Чемейко	Чемейко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+43	ихъ	ихъ	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+44	Кугугуйка	Кугугуйка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+45	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+46	Черемыка	Черемыка	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+47	вязалъ	вязалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	вязати
+
+48	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+49	нѣтъ	нѣтъ	VERB	_	_	_	_	_	SpaceAfter=No	нѣтъ
+
+50	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+51	про	про	ADP	_	_	_	_	_	SpaceAfter=Yes	
+52	то	то	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+53	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+55	вѣдаетъ	вѣдаетъ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	
+56	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+57	что	что	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+58	былъ	былъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+59	хмѣленъ	хмѣленъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+60	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+61	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+62	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+63	ними	ними	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+64	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+65	Черемышкомъ	Черемышкомъ	PROPN	OOV	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+66	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+67	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+68	Чемейкомъ	Чемейкомъ	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+69	Бекбулатовымъ	Бекбулатовымъ	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+70	брани	брани	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+71	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+72	драки	драки	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+73	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+74	бывало	бывало	VERB	_	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	бывати
+
+75	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	того	того	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+4	числа	числа	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Кугугуйко	Кугугуйко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	Тойкозинъ	Тойкозинъ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	роспрашиванъ	роспрашиванъ	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	распрашивати
+
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+10	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+11	роспросѣ	роспросѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+13	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	нынѣшнемъ	нынѣшнемъ	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+16	во	во	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	184	184	NUM	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	году	году	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	деревни	деревни	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+20	Романовы	Романовы	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+21	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	крестьянъ	крестьянъ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+23	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+24	Сенки	Сенки	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+25	Ѳедорова	Ѳедорова	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+26	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+27	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	Ефимка	Ефимка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+29	никакихъ	никакихъ	DET	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+30	коней	коней	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+31	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+32	крадывалъ	крадывалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	красти
+
+33	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+34	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+35	Кырколко	Кырколко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+37	никакими	никакими	DET	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+38	воровскими	воровскими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+39	коими	коими	PRON	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+40	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+41	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+43	Черемышки	Черемышки	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+44	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+45	укорялъ	укорялъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	укоряти
+
+46	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	Чемейко	Чемейко	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	Бекбулатовъ	Бекбулатовъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+4	роспрашиванъ	роспрашиванъ	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	распрашивати
+
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+7	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	роспросѣ	роспросѣ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+10	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+14	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	Черемышки	Черемышки	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	Чюгреева	Чюгреева	PROPN	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+17	былъ	былъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	быти
+
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+20	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+21	томъ	томъ	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+23	пиру	пиру	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+25	Черемышкомъ	Черемышкомъ	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+27	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	Кыркылкомъ	Кыркылкомъ	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+29	брани	брани	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+30	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+31	драки	драки	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	никакои	никакои	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+33	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+34	бывало	бывало	VERB	_	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	бывати
+
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+36	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+37	ихъ	ихъ	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+38	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+39	Черемышка	Черемышка	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+41	Кугутуйка	Кугутуйка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+43	вязывалъ	вязывалъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	вязывати
+
+44	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	того	того	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	жъ	жъ	PART	_	_	_	_	_	SpaceAfter=Yes	
+4	числа	числа	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	дана	дана	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+6	очная	очная	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+7	ставка	ставка	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	съ	съ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+9	крестьяниномъ	крестьяниномъ	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	Трошкою	Трошкою	PROPN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+11	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+13	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	очной	очной	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+15	ставкѣ	ставкѣ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	сказалъ	сказалъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	сказати
+
+17	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+18	какъ	какъ	ADV	_	_	_	_	_	SpaceAfter=Yes	
+19	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+20	я	я	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	яти
+
+21	Трошка	Трошка	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	пошелъ	пошелъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	пойти
+
+23	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+24	него	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+25	Кыркылка	Кыркылка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+27	билъ	билъ	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	бити
+
+28	челомъ	челомъ	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+29	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+30	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+31	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+33	Кыркылка	Кыркылка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+34	сулилъ	сулилъ	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	сулити
+
+35	мнѣ	мнѣ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+36	Трошкѣ	Трошкѣ	PROPN	OOV	Case=Acc|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+37	2	2	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+38	рубли	рубли	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+39	денегъ	денегъ	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+40	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+41	полпуда	полпуда	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	меду	меду	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+43	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+44	чтобъ	чтобъ	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+45	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+46	него	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+47	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+48	бить	бить	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	бити
+
+49	челомъ	челомъ	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+50	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	Кыркылка	Кыркылка	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+4	томъ	томъ	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	запирался	запирался	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	запиратися
+
+6	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	тѣмъ	тѣмъ	DET	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	де	де	PART	_	_	_	_	_	SpaceAfter=Yes	
+9	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+11	клеплетъ	клеплетъ	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	клепати
+
+12	напрасно	напрасно	ADV	_	_	_	_	_	SpaceAfter=No	
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Помѣта	Помѣта	NOUN	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	
+2	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	Искать	Искать	VERB	OOV	Person=3|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	искати
+
+4	судомъ	судомъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

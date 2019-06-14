@@ -1,0 +1,80 @@
+# newpar
+1	[От]	От	ADP	_	_	_	_	_	SpaceAfter=Yes
+2	сея	сея	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+3	болезни	болезни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+4	зубныя	зубныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+5	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+6	щепотныя	щепотныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	Пречистая	Пречистая	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+2	Богородица	Богородица	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+4	помози	помози	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+5	мне	мне	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes
+6	грешному	грешному	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+7	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes
+8	сея	сея	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+9	болезни	болезни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+10	зубныя	зубныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+11	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+12	щепотныя	щепотныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	{л. 30}	{л. 30}	X	OOV	_	_	_	_	NoIndex=Yes|SpaceAfter=Yes
+2	Святии	Святии	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes
+3	архангели	архангели	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes
+4	Христови	Христови	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes
+5	Михаила	Михаила	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+6	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+7	Гавриил	Гавриил	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+9	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+10	вся	вся	DET	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes
+11	силы	силы	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes
+12	небесныя	небесныя	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes
+13	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+14	святыи	святыи	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+16	священномученик	священномученик	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+17	Христов	Христов	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+18	Антипа	Антипа	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+19	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+20	святый	святый	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+21	аггел	аггел	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+22	хранител[ь]	хранитель	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+23	мой	мой	DET	OOV	Case=Nom|Gender=Masc|Number=Sing|Person=1	_	_	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+25	преданный	преданный	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes
+26	мне	мне	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes
+27	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes
+28	Бога	Бога	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+29	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes
+30	сохранение	сохранение	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+31	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes
+32	рожения	рожения	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+33	моего	моего	DET	_	Case=Gen|Gender=Neut|Number=Sing|Person=1	_	_	_	SpaceAfter=Yes
+34	имярек	имярек	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+36	сохрани	сохрани	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+37	мя	мя	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes
+38	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes
+39	сея	сея	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+40	болезни	болезни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+41	зубныя	зубныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+42	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+43	щепотныя	щепотныя	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+44	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+45	черва	черва	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+46	зубнаго	зубнаго	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Во	Во	ADP	OOV	_	_	_	_	SpaceAfter=Yes
+2	веки	веки	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+3	веком	веком	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Арип	Арип	PROPN	OOV	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+

@@ -1,0 +1,58 @@
+# newpar
+1	Слова	Слова	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	свадбу	свадбу	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	поидучи	поидучи	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	пойти
+
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	В	В	ADP	_	_	_	_	_	SpaceAfter=Yes	
+2	руки	руки	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+3	держать	держать	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	держати
+
+4	железо	железо	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	огон[ь]	огонь	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+8	говорит[ь]	говорить	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	говорити
+
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+11	железом	железом	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	около	около	ADP	_	_	_	_	_	SpaceAfter=Yes	
+13	собя	собя	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=Yes	
+14	чертит[ь]	чертить	VERB	OOV	Mood=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	чертити
+
+15	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	[	[	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+2	…	…	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+3	]	]	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Говори	Говори	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	говорити
+
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	недвиго[м]ом	недвигомом	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+4	камени	камени	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	печи	печи	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	печи
+
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	около	около	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	собя	собя	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=Yes	
+11	чертя	чертя	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	копьем	копьем	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	трубою	трубою	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+17	топором	топором	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+20	косором	косором	NOUN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+21	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

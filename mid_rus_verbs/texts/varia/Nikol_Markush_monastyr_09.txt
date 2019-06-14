@@ -1,0 +1,94 @@
+# newpar
+1	138	138	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+2	года	года	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	декабря	декабря	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+5	31	31	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+6	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Соцкий	Соцкий	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+2	Шевденицкие	Шевденицкие	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+3	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+4	Усть-Уфтюские	Усть-Уфтюские	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+5	волости	волости	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	Иван	Иван	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Еремеев	Еремеев	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	сын	сын	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	Мальцев	Мальцев	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+10	дал	дал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	дати
+
+11	есми	есми	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+12	отпись	отпись	ADV	OOV	_	_	_	_	SpaceAfter=Yes	
+13	никольскому	никольскому	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+14	старцу	старцу	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+15	Арсению	Арсению	PROPN	OOV	Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+16	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	что	что	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+18	взял	взял	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	взяти
+
+19	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	него	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+21	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	полудеревни	полудеревни	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	Шкулевские	Шкулевские	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+24	государевы	государевы	NOUN	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+25	данные	данные	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	дати
+
+26	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+27	оброчные	оброчные	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+28	денги	денги	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+29	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	первую	первую	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+31	половину	половину	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	окладу	окладу	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+33	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+34	прибылные	прибылные	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+35	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+36	три	три	NUM	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+37	обжи	обжи	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+38	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+39	нынешний	нынешний	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+40	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+41	138	138	NUM	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	год	год	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+43	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+44	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+45	перечневых	перечневых	ADJ	OOV	Case=Gen|Gender=Fem|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	
+46	денег	денег	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+47	взял	взял	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	взяти
+
+48	восьмнадцать	восьмнадцать	NUM	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	
+49	алтын	алтын	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+50	две	две	NUM	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+51	денги	денги	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+52	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+53	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+54	сенново	сенново	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+55	десять	десять	NUM	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+56	денег	денег	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+57	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+58	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+59	пошлины	пошлины	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+60	денгу	денгу	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+61	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+62	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+63	том	том	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+64	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+65	отпись	отпись	ADV	OOV	_	_	_	_	SpaceAfter=Yes	
+66	дал	дал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	дати
+
+67	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Отпись	Отпись	ADV	OOV	_	_	_	_	SpaceAfter=Yes	
+2	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	писати
+
+3	церковной	церковной	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+4	дьячек	дьячек	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Тарнаского	Тарнаского	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+6	горотка	горотка	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Якунко	Якунко	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	Томилов	Томилов	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

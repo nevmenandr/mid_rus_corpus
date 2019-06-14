@@ -1,0 +1,331 @@
+# newpar
+1	Государю	Государю	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	Борису	Борису	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	Ивановичю	Ивановичю	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	холоп	холоп	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	твой	твой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Person=2	_	_	_	SpaceAfter=Yes	
+6	Олешка	Олешка	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Дементьев	Дементьев	PROPN	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+8	челом	челом	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	бьет	бьет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	бити
+
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Нынешнова	Нынешнова	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No	
+2	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	160-го	160-го	ADJ	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	году	году	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	маия	маия	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+9	6	6	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+10	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	писано	писано	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	писати
+
+12	ко	ко	ADP	_	_	_	_	_	SpaceAfter=Yes	
+13	мне	мне	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+14	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+15	х.	х.	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+16	т.	т.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+17	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+18	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	отпущено	отпущено	VERB	OOV	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	отпустити
+
+20	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+21	Москвы	Москвы	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+23	Ларивоном	Ларивоном	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	Офонасьевым	Офонасьевым	PROPN	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+25	рыбы	рыбы	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+26	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+28	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+29	лещей	лещей	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+30	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	написано	написано	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	написати
+
+7	42	42	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+8	стерляди	стерляди	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+9	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	против	против	ADP	_	_	_	_	_	SpaceAfter=No	
+11	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	письма	письма	NOUN	OOV	Case=Dat|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+15	стерляди	стерляди	NOUN	OOV	Mood=Imp|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	
+16	сошлись	сошлись	VERB	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	сойтися
+
+17	четкою	четкою	ADV	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+18	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+20	лещей	лещей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+21	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+22	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+23	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+24	написано	написано	VERB	_	Case=Acc|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	написати
+
+25	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+26	памяти	памяти	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	10	10	NUM	_	_	_	_	_	SpaceAfter=No	
+28	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+29	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+30	против	против	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	памяти	памяти	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	нет	нет	VERB	_	_	_	_	_	SpaceAfter=No	нѣтъ
+
+33	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+34	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+36	дву	дву	NUM	_	Case=Loc|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+37	лещей	лещей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+38	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+39	принято	принято	VERB	OOV	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	приняти
+
+40	8	8	NUM	OOV	_	_	_	_	SpaceAfter=No	
+41	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	принято	принято	VERB	OOV	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	приняти
+
+7	живой	живой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+8	рыбы	рыбы	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	стерлядей	стерлядей	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+11	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+12	лещей	лещей	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+16	ис	ис	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	тово	тово	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	числа	числа	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	поснуло	поснуло	VERB	OOV	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	поснути
+
+20	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+21	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+22	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	_	_	_	SpaceAfter=Yes	
+23	мера	мера	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	живой	живой	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+25	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+26	сонной	сонной	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+27	рыбе	рыбе	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+28	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+29	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+30	тому	тому	PRON	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+31	я	я	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	яти
+
+32	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+33	х.	х.	NOUN	OOV	Case=Nom	_	_	_	SpaceAfter=Yes	
+34	т.	т.	NOUN	OOV	Case=Acc|Number=Sing	_	_	_	SpaceAfter=No	
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+36	послал	послал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	послати
+
+37	роспись	роспись	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+38	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+39	тебе	тебе	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	
+40	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+41	г.	г.	NOUN	OOV	_	_	_	_	SpaceAfter=No	
+42	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+43	под	под	ADP	_	_	_	_	_	SpaceAfter=Yes	
+44	сею	сею	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+45	отпискою	отпискою	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+46	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	160-го	160-го	ADJ	OOV	Number=Sing	_	_	_	SpaceAfter=Yes	
+2	году	году	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	маия	маия	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+5	6	6	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+6	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Роспись	Роспись	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	рыбе	рыбе	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	что	что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+5	прислана	прислана	VERB	OOV	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	прислати
+
+6	ис	ис	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	Селецкой	Селецкой	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+8	слободки	слободки	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	Ларионом	Ларионом	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	Офонасьевым	Офонасьевым	PROPN	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No	
+12	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Живой	Живой	PROPN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	рыбы	рыбы	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+3	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	3	3	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+5	стерляди	стерляди	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes	
+9	двема	двема	NUM	_	Case=Ins|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+10	вершки	вершки	NOUN	OOV	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+11	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+13	одна	одна	NUM	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	ис	ис	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	них	них	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+16	томна	томна	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	гораздо	гораздо	ADV	_	_	_	_	_	SpaceAfter=No	
+18	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	2	2	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+20	стерляди	стерляди	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+23	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+24	стерлядь	стерлядь	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+25	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+26	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+27	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	вершка	вершка	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+29	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+30	6	6	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+31	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+32	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+33	дву	дву	NUM	_	Case=Gen|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+34	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+35	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+36	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+37	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+38	3	3	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+39	стерляди	стерляди	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+41	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+42	бес	бес	ADP	_	_	_	_	_	SpaceAfter=Yes	
+43	3-х	3-х	NUM	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+44	вершков	вершков	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+45	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+46	4	4	NUM	_	_	_	_	_	SpaceAfter=Yes	
+47	стерляди	стерляди	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+48	11	11	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+49	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+50	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+51	15	15	NUM	_	_	_	_	_	SpaceAfter=Yes	
+52	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+53	3-х	3-х	NUM	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	четвертей	четвертей	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+55	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Да	Да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	уснуло	уснуло	VERB	OOV	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	уснути
+
+3	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+4	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	стерлядь	стерлядь	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+6	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes	
+9	двема	двема	NUM	_	Case=Ins|Gender=Fem|Number=Dual	_	_	_	SpaceAfter=Yes	
+10	вершки	вершки	NOUN	OOV	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+11	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	2	2	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+13	стерляди	стерляди	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+16	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	вершка	вершка	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+18	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	2	2	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+20	стерляди	стерляди	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+23	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+24	дву	дву	NUM	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes	
+25	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+26	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	стерлядь	стерлядь	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+28	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+29	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+30	бес	бес	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	3-х	3-х	NUM	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	вершков	вершков	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+33	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+34	2	2	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+35	стерляди	стерляди	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	3-х	3-х	NUM	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+37	чети	чети	NOUN	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	
+38	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	всех	всех	DET	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+3	сонных	сонных	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+4	8	8	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+5	стерлядей	стерлядей	NOUN	OOV	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	
+6	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Да	Да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	7	7	NUM	_	_	_	_	_	SpaceAfter=Yes	
+3	лещей	лещей	NOUN	OOV	Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+4	живых	живых	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	
+5	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	лещ	лещ	VERB	OOV	VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	лечи
+
+7	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	дву	дву	NUM	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes	
+11	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+12	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+13	лещ	лещ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	лечи
+
+14	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	аршин	аршин	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	3-х	3-х	NUM	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+18	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	3	3	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+21	леща	леща	NOUN	OOV	_	_	_	_	SpaceAfter=Yes	
+22	11	11	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+23	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+24	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+25	лещ	лещ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	лечи
+
+26	10	10	NUM	_	_	_	_	_	SpaceAfter=Yes	
+27	вершков	вершков	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+28	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+29	лещ	лещ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	лечи
+
+30	3	3	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+31	четверти	четверти	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+32	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Да	Да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	лещ	лещ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	лечи
+
+3	уснул	уснул	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	уснути
+
+4	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+5	аршин	аршин	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	3-х	3-х	NUM	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	вершков	вершков	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	всех	всех	DET	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+3	8	8	NUM	OOV	_	_	_	_	SpaceAfter=Yes	
+4	лещей	лещей	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Государю	Государю	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	Борису	Борису	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	Ивановичю	Ивановичю	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

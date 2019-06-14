@@ -1,0 +1,382 @@
+# newpar
+1	Се	Се	PART	_	_	_	_	_	SpaceAfter=Yes	
+2	яз	яз	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	князь	князь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Андрей	Андрей	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	Александрович	Александрович	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Оленкин	Оленкин	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	дал	дал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	дати
+
+10	есми	есми	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+11	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	Спасу	Спасу	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+14	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	чудотворцу	чудотворцу	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	Феодору	Феодору	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+18	монастырь	монастырь	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	Ярославль	Ярославль	PROPN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	анхимандриту	анхимандриту	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	Васьяну	Васьяну	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+24	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes	
+25	братьею	братьею	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+26	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+28	хто	хто	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+29	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	нем	нем	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+31	будут	будут	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+32	анхимандриты	анхимандриты	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+33	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+34	свою	свою	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+35	вотчинную	вотчинную	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+36	деревню	деревню	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+37	Сенково	Сенково	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+38	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+39	выкупу	выкупу	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+41	своих	своих	DET	_	Case=Loc|Gender=Masc|Number=Plur|Person=3	_	_	_	SpaceAfter=Yes	
+42	родителех	родителех	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+43	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+44	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+45	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+46	своем	своем	DET	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+47	отце	отце	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+48	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+49	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+50	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+51	матере	матере	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+52	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+53	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+54	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+55	себе	себе	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	
+56	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+57	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+58	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+59	своей	своей	DET	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+60	жене	жене	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+61	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+62	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+63	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+64	своих	своих	DET	_	Case=Loc|Gender=Neut|Number=Plur|Person=3	_	_	_	SpaceAfter=Yes	
+65	детех	детех	NOUN	OOV	Case=Loc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No	
+66	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+67	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+68	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+69	всем	всем	DET	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+70	своем	своем	DET	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+71	роду	роду	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+72	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+73	ветчной	ветчной	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+74	поминок	поминок	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+75	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	той	той	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	деревне	деревне	NOUN	OOV	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	восмь	восмь	NUM	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+6	дворов	дворов	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+7	крестьянских	крестьянских	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+10	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+11	х	х	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	той	той	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	деревне	деревне	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	истари	истари	ADV	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+15	—	—	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	пашня	пашня	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	ат	ат	NOUN	_	Case=Nom|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	пожня	пожня	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+19	под	под	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	деревнею	деревнею	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+22	тое	тое	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+24	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+25	поженка	поженка	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	отхожая	отхожая	ADJ	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	
+27	под	под	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	моею	моею	DET	_	Case=Ins|Gender=Fem|Number=Sing|Person=1	_	_	_	SpaceAfter=Yes	
+29	деревнею	деревнею	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+30	под	под	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	Жерновники	Жерновники	NOUN	OOV	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+32	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+33	реки	реки	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	рещи
+
+34	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+35	Тумашны	Тумашны	PROPN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+37	болшево	болшево	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+38	бачяга	бачяга	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+39	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	той	той	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	деревне	деревне	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	рубеж	рубеж	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+6	межам	межам	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+7	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	моими	моими	DET	_	Case=Ins|Gender=Masc|Number=Plur|Person=1	_	_	_	SpaceAfter=Yes	
+9	деревнями	деревнями	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+10	—	—	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	деревня	деревня	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	Семендяева	Семендяева	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	деревня	деревня	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+15	Палихина	Палихина	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+16	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	деревня	деревня	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	Вскоросовская	Вскоросовская	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	деревня	деревня	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	Букенова	Букенова	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+22	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+23	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+24	из	из	ADP	_	_	_	_	_	SpaceAfter=Yes	
+25	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	Становщиковские	Становщиковские	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+27	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	дорогу	дорогу	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+29	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+30	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	липы	липы	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	до	до	ADP	_	_	_	_	_	SpaceAfter=Yes	
+33	княже	княже	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+34	Федоровы	Федоровы	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+36	брата	брата	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+37	моего	моего	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=1	_	_	_	SpaceAfter=No	
+38	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+39	земли	земли	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+40	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+41	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+42	со	со	ADP	_	_	_	_	_	SpaceAfter=Yes	
+43	княже	княже	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+44	Федоровыми	Федоровыми	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+45	деревнями	деревнями	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+46	рубежем	рубежем	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+47	Сенкову	Сенкову	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+48	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+49	Офремовою	Офремовою	PROPN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+50	деревнею	деревнею	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+51	Юркина	Юркина	PROPN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+52	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+53	деревни	деревни	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+54	Микерова	Микерова	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+55	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	промежу	промежу	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+3	теми	теми	DET	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+4	деревнями	деревнями	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+5	капаны	капаны	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	копати
+
+6	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+8	ямы	ямы	NOUN	OOV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+9	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	рубежу	рубежу	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	братом	братом	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	моим	моим	DET	_	Case=Ins|Gender=Masc|Number=Sing|Person=1	_	_	_	SpaceAfter=Yes	
+15	со	со	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	князем	князем	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	Федором	Федором	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+19	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	ево	ево	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+21	сыном	сыном	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	со	со	ADP	_	_	_	_	_	SpaceAfter=Yes	
+23	князем	князем	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	Андреем	Андреем	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+25	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+26	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+27	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	деловых	деловых	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+29	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+30	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+31	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+32	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+33	брата	брата	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+34	тот	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+35	рубеж	рубеж	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+37	ямы	ямы	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+38	писаны	писаны	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	писати
+
+39	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	через	через	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	рубеж	рубеж	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	через	через	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	ямы	ямы	NOUN	OOV	Mood=Ind|Number=Plur|Tense=Pres|Voice=Act	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+10	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+11	сей	сей	DET	OOV	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	даной	даной	VERB	OOV	Case=Loc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+13	грамоте	грамоте	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	писано	писано	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	писати
+
+15	г	г	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	деревне	деревне	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	Сенкову	Сенкову	ADJ	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	анхимандрита	анхимандрита	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+22	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes	
+23	братьи	братьи	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	брату	брату	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+25	князю	князю	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	Федору	Федору	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+28	ево	ево	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+29	княигине	княигине	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+30	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+31	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+32	ево	ево	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+33	сыну	сыну	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+34	князю	князю	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+35	Андрею	Андрею	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+36	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+37	ево	ево	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+38	княигине	княигине	NOUN	OOV	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+39	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+40	ево	ево	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+41	детем	детем	NOUN	OOV	Case=Dat|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+42	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+43	вступатся	вступатся	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	вступатися
+
+44	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	спаской	спаской	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+3	деревне	деревне	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	Сенкову	Сенкову	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	со	со	ADP	_	_	_	_	_	SpaceAfter=Yes	
+6	княже	княже	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Андреевыми	Андреевыми	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+8	деревнями	деревнями	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+9	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	сохи	сохи	NOUN	OOV	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+11	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+13	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	ямщину	ямщину	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+17	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+18	посохи	посохи	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+21	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	городовое	городовое	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+23	дело	дело	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+25	тянуть	тянуть	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	тянути
+
+26	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	то	то	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	послуси	послуси	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+5	Никита	Никита	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	да	да	CCONJ	_	VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+7	Василей	Василей	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	Павловы	Павловы	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+9	дети	дети	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+10	Нефимонова	Нефимонова	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=No	
+11	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	грамоту	грамоту	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	даную	даную	VERB	OOV	Case=Acc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+4	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	писати
+
+5	Клим	Клим	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	Истомин	Истомин	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	сын	сын	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	Бекнякова	Бекнякова	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	лета	лета	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	7056-го	7056-го	ADJ	OOV	Case=Acc|Number=Sing	_	_	_	SpaceAfter=No	
+12	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	К	К	ADP	_	_	_	_	_	SpaceAfter=Yes	
+2	сей	сей	DET	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	грамоте	грамоте	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	даной	даной	VERB	OOV	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+5	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+6	деревну	деревну	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	Сенъково	Сенъково	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+9	князь	князь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	Андрей	Андрей	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	руку	руку	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	свою	свою	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+13	приложил	приложил	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	приложити
+
+14	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	печать	печать	NOUN	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No	
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	На	На	ADP	_	_	_	_	_	SpaceAfter=Yes	
+2	обороте	обороте	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+3	:	:	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	К	К	ADP	_	_	_	_	_	SpaceAfter=Yes	
+2	сей	сей	DET	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	даной	даной	VERB	OOV	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+4	Микита	Микита	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Елманов	Елманов	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+6	послух	послух	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	руку	руку	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	приложил	приложил	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	приложити
+
+9	грамоте	грамоте	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	даной	даной	VERB	OOV	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	дати
+
+11	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	К	К	ADP	_	_	_	_	_	SpaceAfter=Yes	
+2	сей	сей	DET	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	даной	даной	VERB	OOV	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=Yes	дати
+
+4	грамоте	грамоте	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	яз	яз	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	Василей	Василей	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+8	Елманов	Елманов	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	послух	послух	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	руку	руку	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	приложил	приложил	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	приложити
+
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

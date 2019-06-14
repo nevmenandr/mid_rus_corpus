@@ -1,0 +1,95 @@
+# newpar
+1	Ко	Ко	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+2	власти	власти	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	приход	приход	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	приходити
+
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Господи	Господи	NOUN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	Боже	Боже	NOUN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	благослови	благослови	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	благословити
+
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	отче	отче	NOUN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	Господи	Господи	NOUN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	Боже	Боже	NOUN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Во	Во	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+2	имя	имя	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	яти
+
+3	Отца	Отца	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+5	С[ы]на	Сына	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+7	Свят[а]го	Святаго	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+8	Духа	Духа	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	ныне	ныне	ADV	_	_	_	_	_	SpaceAfter=Yes	
+3	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+4	присно	присно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No	
+5	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Кротос[ть]ю	Кротостью	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+3	мудро[сть]ю	мудростью	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	царя	царя	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Д[а]в[ы]да	Давыда	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+6	;	;	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	как	как	ADV	_	_	_	_	_	SpaceAfter=Yes	
+8	царь	царь	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	Д[а]в[ы]д	Давыд	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	укротил	укротил	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	укротити
+
+11	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+12	умирил	умирил	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	умирити
+
+13	царей	царей	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+14	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	князей	князей	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+16	еврейских	еврейских	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	
+17	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+18	так	так	ADV	_	_	_	_	_	SpaceAfter=Yes	
+19	бы	бы	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+20	укротилос[ь]	укротилось	VERB	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+21	с[е]рдце	сердце	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	сего	сего	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	раб[а]	раба	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	Б[о]жия	Божия	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+25	суд[ь]и	судьи	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	имярек	имярек	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	ко	ко	ADP	_	_	_	_	_	SpaceAfter=Yes	
+28	мне	мне	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+29	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+30	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+31	рабу	рабу	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	Б[о]жию	Божию	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+33	имярек	имярек	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+34	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Говор[и]	Говори	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	говорити
+
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	воду	воду	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	росу	росу	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+10	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+11	мыло	мыло	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+12	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+13	потри	потри	VERB	OOV	Case=Nom|Gender=Masc|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	потерти
+
+14	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	лицу	лицу	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

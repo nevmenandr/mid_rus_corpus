@@ -1,0 +1,129 @@
+# newpar
+1	Семен	Семен	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	Васил[ь]ев	Васильев	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+3	сын	сын	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Истинной	Истинной	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+2	Христос	Христос	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	стоит	стоит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	стояти
+
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	держит	держит	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	держати
+
+6	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	руках	руках	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+8	золоты	золоты	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	_	_	_	SpaceAfter=Yes	
+9	иглы	иглы	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	шолковые	шолковые	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+12	нити	нити	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	неити
+
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	хочет	хочет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	хотѣти
+
+15	сшиват[ь]	сшивать	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	сшивати
+
+16	небо	небо	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+18	землю	землю	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	так	так	ADV	_	_	_	_	_	SpaceAfter=Yes	
+21	бы	бы	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+22	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+23	мне	мне	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+24	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+25	{л. 183 об.}	{л. 183 об.}	X	OOV	_	_	_	_	NoIndex=Yes|SpaceAfter=Yes	
+26	рабе	рабе	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	Божье	Божье	ADJ	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+28	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+29	ты	ты	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	
+30	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+31	руда	руда	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+32	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+33	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+34	кан[ь]	кань	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+36	зашыла	зашыла	VERB	OOV	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	зашити
+
+37	бы	бы	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+38	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+39	руды	руды	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+40	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+41	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+42	раны	раны	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+43	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+44	ты	ты	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	
+45	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+46	руда	руда	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+47	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+48	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+49	кан[ь]	кань	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+50	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+51	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+52	кано	кано	NOUN	OOV	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+53	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+54	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+55	кан[ь]	кань	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+56	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Пречистая	Пречистая	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+2	Богородица	Богородица	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+4	заступи	заступи	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	заступити
+
+5	своею	своею	DET	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+6	ступенью	ступенью	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	закрой	закрой	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	своею	своею	DET	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+10	ризою	ризою	NOUN	OOV	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	нетленною	нетленною	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+12	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Возми	Возми	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	взяти
+
+2	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	Пречистая	Пречистая	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+4	Богородица	Богородица	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	замкни	замкни	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	замкнути
+
+7	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	мне	мне	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+9	тридевет[ь]ми	тридеветьми	NOUN	OOV	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+10	замками	замками	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	
+11	немецкими	немецкими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+12	дорогими	дорогими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Ты	Ты	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	
+2	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+3	руда	руда	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	кан[ь]	кань	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+9	кано	кано	ADJ	OOV	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+12	кан[ь]	кань	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Во	Во	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+2	имя	имя	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	яти
+
+3	Отца	Отца	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+5	Сына	Сына	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+7	Святаго	Святаго	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+8	Духа	Духа	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Амин[ь]	Аминь	INTJ	_	_	_	_	_	SpaceAfter=No	
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

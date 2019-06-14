@@ -1,0 +1,102 @@
+# newpar
+1	Список	Список	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+2	з	з	ADP	_	_	_	_	_	SpaceAfter=Yes
+3	грамоты	грамоты	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+4	купчие	купчие	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+5	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes
+6	Лукиньскую	Лукиньскую	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+7	пожню	пожню	NOUN	OOV	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	Се	Се	PART	_	_	_	_	_	SpaceAfter=Yes
+2	яз	яз	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+4	Олександр	Олександр	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	Гаврилов	Гаврилов	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+6	сын	сын	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+7	Иреского	Иреского	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+9	купил	купил	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes
+10	есми	есми	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+11	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+12	Ивана	Ивана	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+13	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+14	Онисимова	Онисимова	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+15	два	два	NUM	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes
+16	жеребья	жеребья	NOUN	OOV	Case=Acc|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes
+17	Лукинские	Лукинские	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Fem|Number=Dual|Strength=Weak	_	_	_	SpaceAfter=Yes
+18	пожни	пожни	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+19	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes
+20	болоте	болоте	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Дал	Дал	VERB	OOV	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+2	есми	есми	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+3	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes
+4	ней	ней	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes
+5	два	два	NUM	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes
+6	рубля	рубля	NOUN	OOV	Case=Acc|Gender=Masc|Number=Dual	_	_	_	SpaceAfter=Yes
+7	московьскими	московьскими	ADJ	OOV	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+9	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes
+10	5	5	NUM	_	_	_	_	_	SpaceAfter=Yes
+11	гривен	гривен	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes
+12	за	за	ADP	_	_	_	_	_	SpaceAfter=Yes
+13	полтину	полтину	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+15	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+16	пополнка	пополнка	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+17	корова	корова	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+2	отвод	отвод	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+3	той	той	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+4	пожни	пожни	NOUN	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+5	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes
+6	старой	старой	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes
+7	отвод	отвод	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+9	куда	куда	ADV	_	_	_	_	_	SpaceAfter=Yes
+10	Иванова	Иванова	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+11	коса	коса	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+12	ходила	ходила	VERB	_	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes
+3	то	то	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+4	послуси	послуси	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+6	Дмитрей	Дмитрей	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+7	Нефимонов	Нефимонов	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+9	да	да	CCONJ	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+10	Иван	Иван	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+11	Никифоров	Никифоров	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+13	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+14	брат	брат	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+15	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes
+16	Матфей	Матфей	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+18	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+19	Палка	Палка	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+20	сотник	сотник	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+21	городецкой	городецкой	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+2	грамоту	грамоту	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+3	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes
+4	Иван	Иван	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	Онисимов	Онисимов	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+6	сын	сын	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+7	сам	сам	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+8	своею	своею	DET	_	Case=Ins|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes
+9	рукою	рукою	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+

@@ -1,0 +1,641 @@
+# newpar
+1	ПОСЛАНИЕ	ПОСЛАНИЕ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	ФЕОДОРА	ФЕОДОРА	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	КАРПОВА	КАРПОВА	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	КЪ	КЪ	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+5	СТАРЦУ	СТАРЦУ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	МАКСИМУ	МАКСИМУ	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	СВЯТОГОРСКОМУ	СВЯТОГОРСКОМУ	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Господину	Господину	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	Максиму	Максиму	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	иноку	иноку	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	Феодоръ	Феодоръ	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	Ивановъ	Ивановъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+6	сынъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+7	Карповъ	Карповъ	PROPN	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+8	челом	челом	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	бьет	бьет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	бити
+
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Не	Не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+2	подобаше	подобаше	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	подобати
+
+3	было	было	VERB	_	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+4	тебѣ	тебѣ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	философе	философе	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	преже	преже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+10	суда	суда	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	осудити	осудити	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	осудити
+
+12	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+13	преже	преже	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	слышаниа	слышаниа	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+15	из	из	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	наших	наших	DET	_	Case=Gen|Gender=Neut|Number=Plur|Person=1	_	_	_	SpaceAfter=Yes	
+17	устъ	устъ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+18	корити	корити	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	корити
+
+19	нас	нас	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+20	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+21	поминаа	поминаа	ADJ	OOV	Case=Nom|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	поминати
+
+22	Спаса	Спаса	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	нашего	нашего	DET	_	Case=Gen|Gender=Masc|Number=Sing|Person=1	_	_	_	SpaceAfter=Yes	
+24	евангельскаа	евангельскаа	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+25	сказаниа	сказаниа	NOUN	OOV	Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No	
+26	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+28	Еже	Еже	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+29	слышу	слышу	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	слышати
+
+30	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+31	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+32	рече	рече	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+33	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+34	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+35	сужу	сужу	VERB	OOV	Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	судити
+
+36	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+37	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+38	суд	суд	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+39	мой	мой	DET	OOV	Case=Acc|Gender=Masc|Number=Sing|Person=1	_	_	_	SpaceAfter=Yes	
+40	праведенъ	праведенъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+41	есть	есть	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	быти
+
+42	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+43	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Не	Не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+2	преже	преже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+3	сужу	сужу	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	судити
+
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	рече	рече	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	донде	донде	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+10	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+11	слышу	слышу	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	слышати
+
+12	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+13	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+14	аще	аще	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	лѣ	лѣ	ADV	_	Person=1	_	_	_	SpaceAfter=Yes	
+16	тъ	тъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	есть	есть	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+18	кому	кому	PRON	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+20	неповинных	неповинных	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+21	суд	суд	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	износити	износити	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	износити
+
+23	судиты	судиты	NOUN	OOV	Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No	
+24	?	?	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Мене	Мене	PRON	OOV	Gender=Masc|Number=Sing|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	преже	преже	ADV	_	_	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	даже	даже	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+7	глаголати	глаголати	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	глаголати
+
+8	ми	ми	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+11	престаните	престаните	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	престати
+
+12	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+13	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	глаголешь	глаголешь	VERB	OOV	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	глаголати
+
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	укаряа	укаряа	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	укоряти
+
+18	нас	нас	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+19	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+20	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	писати
+
+21	еси	еси	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	быти
+
+22	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Аз	Аз	PRON	OOV	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	скажу	скажу	ADJ	_	Mood=Ind|Number=Sing	_	_	_	SpaceAfter=Yes	сказати
+
+4	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+5	обинуася	обинуася	VERB	OOV	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	обиноватися
+
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+8	мнѣнию	мнѣнию	NOUN	OOV	Case=Dat|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	послѣдуа	послѣдуа	ADV	OOV	_	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	но	но	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+12	истиннѣ	истиннѣ	ADV	_	_	_	_	_	SpaceAfter=Yes	
+13	повинуася	повинуася	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	повиноватися
+
+14	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+15	яков	яков	DET	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+17	есмь	есмь	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	быти
+
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	таковъ	таковъ	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+20	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+21	явитися	явитися	VERB	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	явитися
+
+22	восхощу	восхощу	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	восхотѣти
+
+23	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+24	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+25	притворю	притворю	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	притворити
+
+26	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+27	себѣ	себѣ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=Yes	
+28	лицемѣрнаго	лицемѣрнаго	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+29	образа	образа	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+30	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Преже	Преже	ADP	OOV	_	_	_	_	SpaceAfter=Yes	
+2	малых	малых	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes	
+3	дней	дней	NOUN	OOV	Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	стоащу	стоащу	VERB	OOV	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	стояти
+
+6	ми	ми	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+7	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	церкви	церкви	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	святого	святого	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+10	Никола	Никола	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+11	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	мѣстѣ	мѣстѣ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	стоаниа	стоаниа	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	моего	моего	DET	_	Case=Gen|Gender=Neut|Number=Sing|Person=1	_	_	_	SpaceAfter=No	
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	внезапу	внезапу	ADV	_	_	_	_	_	SpaceAfter=Yes	
+17	приде	приде	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	приити
+
+18	священникъ	священникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+19	тоа	тоа	DET	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+20	церкви	церкви	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	ко	ко	ADP	_	_	_	_	_	SpaceAfter=Yes	
+22	мнѣ	мнѣ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+23	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+24	глагола	глагола	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	глаголати
+
+25	ми	ми	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+26	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+28	Вѣси	Вѣси	VERB	OOV	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+29	ли	ли	PART	_	_	_	_	_	SpaceAfter=No	
+30	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+31	какова	какова	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+32	послание	послание	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+33	послал	послал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	послати
+
+34	Максим	Максим	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+35	к	к	ADP	_	_	_	_	_	SpaceAfter=Yes	
+36	Николаю	Николаю	PROPN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+37	?	?	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+38	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+
+1	Азъ	Азъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	рѣх	рѣх	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+4	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+6	Ни	Ни	PART	_	Polarity=Neg	_	_	_	SpaceAfter=No	
+7	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	подаде	подаде	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	подати
+
+3	ми	ми	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+4	бумажку	бумажку	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	ней	ней	PRON	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Prs	_	_	_	SpaceAfter=Yes	
+8	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+9	написано	написано	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	написати
+
+10	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+12	Вѣруй	Вѣруй	NOUN	OOV	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	вѣровати
+
+13	просто	просто	ADV	_	_	_	_	_	SpaceAfter=Yes	
+14	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	неиспытно	неиспытно	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+16	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+17	единого	единого	NUM	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	Бога	Бога	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+21	трех	трех	NUM	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+22	ипостасех	ипостасех	NOUN	OOV	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+23	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+24	лицех	лицех	NOUN	OOV	Case=Loc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+25	познаваема	познаваема	VERB	OOV	Case=Gen|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	SpaceAfter=No	познавати
+
+26	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+27	сирѣчь	сирѣчь	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+28	Отца	Отца	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+29	нерожена	нерожена	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+30	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+31	безначална	безначална	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+32	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+33	ниже	ниже	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+34	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes	
+35	себе	себе	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	
+36	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+37	ниже	ниже	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+38	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes	
+39	инаго	инаго	PRON	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+40	бытие	бытие	NUM	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+41	имущаго	имущаго	VERB	OOV	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	имѣти
+
+42	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+43	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Азъ	Азъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	вопросих	вопросих	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	вопросити
+
+4	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No	
+5	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+7	Что	Что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	_	_	_	SpaceAfter=Yes	
+8	суть	суть	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+9	сиа	сиа	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+12	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+13	чем	чем	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+14	блазнишися	блазнишися	VERB	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	блазнитися
+
+15	?	?	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+16	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+
+1	Он	Он	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	отвѣща	отвѣща	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	отвѣщати
+
+4	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+6	Како	Како	ADV	_	_	_	_	_	SpaceAfter=Yes	
+7	пишет	пишет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	писати
+
+8	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	"	"	PUNCT	OOV	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	_	_	_	SpaceAfter=No	
+10	Ниже	Ниже	ADV	OOV	_	_	_	_	SpaceAfter=Yes	
+11	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	себе	себе	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	ниже	ниже	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	инаго	инаго	DET	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	бытие	бытие	NUM	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	имущаго	имущаго	VERB	OOV	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	имѣти
+
+19	"	"	PUNCT	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+20	?	?	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+21	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=Yes	
+
+1	Аз	Аз	PRON	OOV	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	рѣх	рѣх	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	рещи
+
+4	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No	
+5	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+7	Престани	Престани	VERB	OOV	Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	престати
+
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	Стефане	Стефане	PROPN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	сие	сие	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	бо	бо	PART	_	_	_	_	_	SpaceAfter=Yes	
+14	имя	имя	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	яти
+
+15	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No	
+16	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+18	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+19	можеши	можеши	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	мочи
+
+20	ты	ты	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	_	_	_	SpaceAfter=Yes	
+21	одолѣти	одолѣти	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes	одолѣти
+
+22	словом	словом	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+23	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No	
+24	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Вѣм	Вѣм	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+2	азъ	азъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+3	Максима	Максима	PROPN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+4	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+6	пишет	пишет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	писати
+
+7	без	без	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	свѣдѣтельства	свѣдѣтельства	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	от	от	ADP	_	_	_	_	_	SpaceAfter=Yes	
+11	святого	святого	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+12	Писаниа	Писаниа	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	заимствуа	заимствуа	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=No	
+14	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+15	раздавает	раздавает	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	раздавати
+
+16	нам	нам	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+17	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+18	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	таким	таким	DET	OOV	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+3	словом	словом	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	утолих	утолих	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	утолити
+
+5	того	того	DET	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	надмение	надмение	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Послѣди	Послѣди	ADV	OOV	_	_	_	_	SpaceAfter=Yes	
+2	бумажку	бумажку	ADJ	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+3	ону	ону	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+5	руку	руку	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+6	имѣа	имѣа	VERB	OOV	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	имѣти
+
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	идох	идох	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	итти
+
+9	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	великого	великого	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+11	князя	князя	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	дворъ	дворъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+14	там	там	ADV	_	_	_	_	_	SpaceAfter=Yes	
+15	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+16	случаю	случаю	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+17	обрѣтох	обрѣтох	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	
+18	Власиа	Власиа	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+19	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No	
+20	толмача	толмача	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+21	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+22	бумажку	бумажку	ADJ	OOV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+23	ону	ону	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+24	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+25	явих	явих	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	явити
+
+26	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Он	Он	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	рече	рече	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	рещи
+
+4	ми	ми	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No	
+5	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+7	Иди	Иди	VERB	OOV	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	итти
+
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	посоветуй	посоветуй	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	посовѣтовати
+
+10	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+11	ним	ним	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+12	самъ	самъ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	да	да	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+15	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+16	бумажку	бумажку	ADJ	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+17	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+18	ю	ю	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	_	_	_	SpaceAfter=Yes	
+19	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+20	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+21	руку	руку	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes	
+22	имѣеши	имѣеши	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	имѣти
+
+23	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+24	ему	ему	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+25	яви	яви	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	явити
+
+26	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Мнит	Мнит	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	мнити
+
+2	ми	ми	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+3	ся	ся	AUX	_	Case=Acc|Number=Sing|Person=3	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	рече	рече	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+10	конечном	конечном	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+11	непостиженьствѣ	непостиженьствѣ	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+12	то	то	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+13	онъ	онъ	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+14	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	писати
+
+15	"	"	PUNCT	OOV	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	SpaceAfter=No	
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Аз	Аз	PRON	OOV	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+2	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+3	рѣх	рѣх	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+4	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+6	Что	Что	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	_	_	_	SpaceAfter=Yes	
+7	ради	ради	ADP	_	_	_	_	_	SpaceAfter=Yes	
+8	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+9	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+10	тружаю	тружаю	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	тружати
+
+11	аз	аз	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+12	давшаго	давшаго	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	дати
+
+13	ради	ради	ADP	_	_	_	_	_	SpaceAfter=Yes	
+14	бумажку	бумажку	ADJ	OOV	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+15	попа	попа	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Яко	Яко	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	игрѣ	игрѣ	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+5	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	при	при	ADP	_	_	_	_	_	SpaceAfter=Yes	
+7	им	им	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes	
+8	глаголю	глаголю	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	глаголати
+
+9	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+10	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+11	с	с	ADP	_	_	_	_	_	SpaceAfter=Yes	
+12	тобою	тобою	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=Yes	
+13	рѣх	рѣх	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	рещи
+
+14	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+15	иже	иже	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes	
+16	хощет	хощет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	хотѣти
+
+17	Максимом	Максимом	PROPN	OOV	Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+18	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+19	богословии	богословии	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+20	стязатися	стязатися	VERB	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	стязатися
+
+21	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+22	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Боле	Боле	NOUN	OOV	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+3	глаголах	глаголах	NOUN	OOV	Case=Loc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=Yes	глаголати
+
+4	ничто	ничто	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+5	же	же	PART	_	_	_	_	_	SpaceAfter=No	
+6	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	И	И	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	нынѣ	нынѣ	ADV	_	_	_	_	_	SpaceAfter=Yes	
+3	Бога	Бога	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	поставляю	поставляю	VERB	OOV	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	поставляти
+
+5	на	на	ADP	_	_	_	_	_	SpaceAfter=Yes	
+6	свою	свою	DET	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=Yes	
+7	душу	душу	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	
+8	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+9	яко	яко	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+10	ниже	ниже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+11	преже	преже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+12	сего	сего	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	
+13	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+14	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+15	мимошедших	мимошедших	ADJ	OOV	Case=Loc|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=No	мимоитти
+
+16	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	ниже	ниже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+18	нынѣ	нынѣ	ADV	_	_	_	_	_	SpaceAfter=No	
+19	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes	
+21	настоящих	настоящих	VERB	OOV	Case=Loc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres	_	_	_	SpaceAfter=No	настояти
+
+22	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+23	глаголах	глаголах	VERB	OOV	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	глаголати
+
+24	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+25	тебѣ	тебѣ	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=Yes	
+26	зло	зло	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+27	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+28	кое	кое	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+29	невѣрствие	невѣрствие	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+30	бы	бы	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+31	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes	
+32	тебѣ	тебѣ	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=Yes	
+33	имѣл	имѣл	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No	имѣти
+
+34	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Аще	Аще	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+2	будет	будет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+3	тебѣ	тебѣ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=Yes	
+4	имовѣрно	имовѣрно	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+5	или	или	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+6	ни	ни	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+7	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+8	сам	сам	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+9	вѣси	вѣси	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+
+1	Но	Но	CCONJ	OOV	_	_	_	_	SpaceAfter=Yes	
+2	филосовское	филосовское	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+3	писание	писание	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+4	нас	нас	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+5	учитъ	учитъ	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	учити
+
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+7	болѣ	болѣ	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+8	нас	нас	PRON	_	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+9	сам	сам	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	вѣси	вѣси	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	
+11	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+12	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+13	Не	Не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+14	вся	вся	PRON	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=No	
+15	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+16	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+17	глаголютъ	глаголютъ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	глаголати
+
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+19	-	-	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+20	творим	творим	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	творити
+
+21	елико	елико	ADV	_	PronType=Rel	_	_	_	SpaceAfter=Yes	
+22	можем	можем	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	мочи
+
+23	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+24	ниже	ниже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+25	всему	всему	PRON	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+26	вѣрим	вѣрим	VERB	OOV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	вѣрити
+
+27	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+28	елико	елико	PRON	_	PronType=Rel	_	_	_	SpaceAfter=Yes	
+29	слышим	слышим	VERB	OOV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	слышати
+
+30	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+31	ниже	ниже	ADV	_	_	_	_	_	SpaceAfter=Yes	
+32	вся	вся	PRON	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes	
+33	глаголемъ	глаголемъ	VERB	OOV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	глаголати
+
+34	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+35	елико	елико	PRON	_	PronType=Rel	_	_	_	SpaceAfter=Yes	
+36	познаем	познаем	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	познавати
+
+37	"	"	PUNCT	OOV	_	_	_	_	SpaceAfter=No	
+38	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+39	прочее	прочее	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=Yes	
+40	же	же	PART	_	_	_	_	_	SpaceAfter=Yes	
+41	сам	сам	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes	
+42	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+43	невѣси	невѣси	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	
+44	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+
+# newpar
+1	Здравъ	Здравъ	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes	
+2	буди	буди	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes	быти
+
+3	въ	въ	ADP	_	_	_	_	_	SpaceAfter=Yes	
+4	спасении	спасении	NOUN	OOV	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No	
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes	
+6	аще	аще	SCONJ	_	_	_	_	_	SpaceAfter=Yes	
+7	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes	
+8	нам	нам	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes	
+9	поздравлениа	поздравлениа	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes	
+10	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes	
+11	писал	писал	VERB	_	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=Yes	писати
+
+12	еси	еси	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No	быти
+
+13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No	
+

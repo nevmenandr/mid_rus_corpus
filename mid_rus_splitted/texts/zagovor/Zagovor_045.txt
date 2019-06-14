@@ -1,0 +1,80 @@
+# newpar
+1	О	О	ADP	_	_	_	_	_	SpaceAfter=Yes
+2	том	том	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+3	же	же	PART	_	_	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+5	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes
+6	зубех	зубех	NOUN	OOV	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	Во	Во	ADP	OOV	_	_	_	_	SpaceAfter=Yes
+2	удоли	удоли	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+3	сухо	сухо	ADJ	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+4	древо	древо	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+6	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+7	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+8	меня	меня	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes
+9	черв	черв	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+10	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes
+11	з[у]бех	зубех	NOUN	OOV	Case=Loc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Иванне	Иванне	PROPN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+3	Иванне	Иванне	PROPN	OOV	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+5	иди	иди	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+7	вопроси	вопроси	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+8	Лазаря	Лазаря	PROPN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+9	четверодневнаг[о]	четверодневнаго	ADJ	OOV	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+11	болят	болят	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes
+12	ли	ли	PART	_	_	_	_	_	SpaceAfter=Yes
+13	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+14	нег[о]	него	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=Yes
+15	зубы	зубы	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Како	Како	ADV	_	_	_	_	_	SpaceAfter=Yes
+2	хотят	хотят	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+3	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+4	м[е]ртвеца	мертвеца	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	болети	болети	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=Yes
+6	зубы	зубы	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+8	так	так	ADV	_	_	_	_	_	SpaceAfter=Yes
+9	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+10	у	у	ADP	_	_	_	_	_	SpaceAfter=Yes
+11	раба	раба	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+12	Б[о]жия	Божия	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+13	имярек	имярек	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes
+14	зубом	зубом	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=Yes
+15	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes
+16	болет[ь]	болеть	VERB	OOV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+17	ни	ни	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+18	вовеки	вовеки	NOUN	OOV	Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Всегда	Всегда	ADV	OOV	_	_	_	_	SpaceAfter=Yes
+2	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+3	ныне	ныне	ADV	_	_	_	_	_	SpaceAfter=Yes
+4	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+5	присно	присно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=Yes
+6	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+7	во	во	ADP	_	_	_	_	_	SpaceAfter=Yes
+8	веки	веки	NOUN	OOV	Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+9	веком	веком	NOUN	OOV	Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	Амин[ь]	Аминь	INTJ	_	_	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
+# newpar
+1	Говор[и]	Говори	VERB	OOV	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+2	3	3	NUM	OOV	_	_	_	_	SpaceAfter=Yes
+3	ж	ж	PART	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+

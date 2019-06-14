@@ -1,0 +1,87 @@
+# newpar
+1	ПОСЛАНИЕ	ПОСЛАНИЕ	NOUN	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+2	БРАТУ	БРАТУ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+4	ПРИШЕДШЕМУ	ПРИШЕДШЕМУ	VERB	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	С	С	ADP	_	_	_	_	_	SpaceAfter=Yes
+6	ВОСТОЧНОЙ	ВОСТОЧНОЙ	ADJ	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+7	СТОРОНЫ	СТОРОНЫ	NOUN	OOV	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+
+# newpar
+1	ТОГО	ТОГО	DET	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+2	ЖЕ	ЖЕ	PART	OOV	_	_	_	_	SpaceAfter=Yes
+3	СТАРЦА	СТАРЦА	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+4	ПОСЛАНЕИЦЕ	ПОСЛАНЕИЦЕ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	ПРОСИВШЕМУ	ПРОСИВШЕМУ	VERB	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+6	У	У	ADP	OOV	_	_	_	_	SpaceAfter=Yes
+7	НЕГО	НЕГО	PRON	OOV	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	SpaceAfter=Yes
+8	БРАТУ	БРАТУ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+9	С	С	ADP	_	_	_	_	_	SpaceAfter=Yes
+10	ВЪСТОЧНЫА	ВЪСТОЧНЫА	ADJ	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+11	СТРАНЫ	СТРАНЫ	NOUN	OOV	Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+12	НА	НА	ADP	_	_	_	_	_	SpaceAfter=Yes
+13	ПОЛЗУ	ПОЛЗУ	NOUN	OOV	Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+14	ДУШИ	ДУШИ	NOUN	OOV	Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+
+# newpar
+1	Так	Так	ADV	OOV	_	_	_	_	SpaceAfter=Yes
+2	ся	ся	AUX	_	Case=Acc|Number=Sing|Person=3	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+4	господине	господине	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+6	нам	нам	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=Yes
+7	мнить	мнить	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+8	полезно	полезно	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+9	тебе	тебе	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=Yes
+10	окормлятися	окормлятися	VERB	OOV	Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+12	правило	правило	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+13	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes
+14	телесных	телесных	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes
+15	деланиих	деланиих	NOUN	OOV	Case=Loc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes
+16	по	по	ADP	_	_	_	_	_	SpaceAfter=Yes
+17	силе	силе	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+19	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+20	не	не	PART	_	Polarity=Neg	_	_	_	SpaceAfter=Yes
+21	выше	выше	ADV	_	_	_	_	_	SpaceAfter=Yes
+22	меры	меры	NOUN	OOV	Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+24	а	а	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+25	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes
+26	писаниих	писаниих	NOUN	OOV	Case=Loc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes
+27	божественых	божественых	ADJ	OOV	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	_	_	_	SpaceAfter=Yes
+28	поучатися	поучатися	VERB	OOV	Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+30	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+31	в	в	ADP	_	_	_	_	_	SpaceAfter=Yes
+32	рукоделиих	рукоделиих	NOUN	OOV	Case=Loc|Gender=Neut|Number=Plur	_	_	_	SpaceAfter=Yes
+33	себе	себе	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=Yes
+34	обучати	обучати	VERB	OOV	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+36	и	и	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+37	безмолвие	безмолвие	NOUN	OOV	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=Yes
+38	любити	любити	VERB	_	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+
+1	А	А	CCONJ	_	_	_	_	_	SpaceAfter=Yes
+2	коли	коли	ADV	_	_	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+4	Богу	Богу	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=Yes
+5	хотящу	хотящу	VERB	OOV	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+7	друг	друг	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rcp	_	_	_	SpaceAfter=Yes
+8	друга	друга	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rcp	_	_	_	SpaceAfter=Yes
+9	узрим	узрим	VERB	OOV	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+11	тогда	тогда	ADV	_	_	_	_	_	SpaceAfter=Yes
+12	пространнее	пространнее	ADJ	OOV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	_	_	_	SpaceAfter=Yes
+13	будет	будет	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=Yes
+14	беседа	беседа	NOUN	OOV	Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=Yes
+15	о	о	ADP	_	_	_	_	_	SpaceAfter=Yes
+16	всем	всем	PRON	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	SpaceAfter=Yes
+18	про	про	ADP	_	_	_	_	_	SpaceAfter=Yes
+19	все	все	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+
